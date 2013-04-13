@@ -1,0 +1,13 @@
+Source: system-ui-qmlplugin-demo
+Section: user/other
+Priority: optional
+Maintainer: CODeRUS <coderusinbox@gmail.com>
+Build-Depends: debhelper (>= 5), libqt4-dev
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: system-ui-qmlplugin-demo
+Architecture: armel
+Depends: system-ui
+Description: Status menu QML widgets demo extension
+XSBC-Maemo-Display-Name: Status menu QML demo
